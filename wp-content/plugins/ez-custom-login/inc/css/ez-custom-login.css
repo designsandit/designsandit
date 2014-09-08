@@ -1,0 +1,6 @@
+body {
+	background-color: #fff;
+}
+body.login {
+	background: grey;
+}
